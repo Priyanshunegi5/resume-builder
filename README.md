@@ -106,7 +106,13 @@ Type **npm start** in terminal to start the application after installing the dep
 
 ## Links for the project
 
-Deployment Link :
+Deployment Link : https://64c21644c6c3825b0e31fde4--keen-jalebi-3191a7.netlify.app/
+youtube links : https://youtu.be/pwXe5lTseek
+
+
+
+
+
 Youtube Link : 
 
 ## Team Memebers
